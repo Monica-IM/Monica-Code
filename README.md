@@ -1,6 +1,31 @@
 # Monica Code - IDE Extensions
 
-Monica Code is a premium AI coding assistant available for Visual Studio Code and JetBrains IDEs. This repository hosts documentation, troubleshooting guides, and issue tracking.
+> **Repository Purpose**: This repository is specifically for documentation and issue tracking of Monica Code IDE extensions. For billing, account, or subscription issues, please contact our [customer support](https://monica.im/feedback?platform=monica_code) directly.
+
+<a name="issue-reporting"></a>
+## 🐛 Issue Guidelines
+
+### Not Handled in This Repository
+- ❌ Billing or subscription issues
+- ❌ Account-specific support requests
+- ❌ Private/sensitive information
+> For these matters, please contact [customer support](https://monica.im/feedback?platform=monica_code)
+
+### Appropriate Issues for This Repository
+- ✅ Bug reports
+- ✅ Feature requests
+- ✅ Documentation improvements
+- ✅ Usage questions
+
+### Before Creating an Issue
+
+1. **Search First**: Check existing issues to avoid duplicates
+2. **Gather Information**:
+   - IDE and version
+   - Plugin version
+   - Operating system
+   - Error messages (if any)
+   - Steps to reproduce
 
 ## 🎯 Supported IDEs
 
@@ -28,31 +53,6 @@ Monica Code is a premium AI coding assistant available for Visual Studio Code an
 > - Best practices and tips
 > 
 > Stay tuned for updates!
->
-
-<a name="issue-reporting"></a>
-## 🐛 Issue Reporting
-
-### Before Creating an Issue
-
-1. **Search First**: Please search existing issues before creating a new one
-2. **Gather Information**:
-   - IDE and version
-   - Plugin version
-   - Operating system
-   - Error messages (if any)
-   - Steps to reproduce
-
-### Issue Types We Handle Here
-- Bug reports
-- Feature requests
-- Documentation improvements
-- Usage questions
-
-### Not Handled Here
-- Billing/subscription issues
-- Account-specific support
-> → Please contact our [customer support](https://monica.im/feedback?platform=monica_code) for these matters
 
 ## 🤝 Community Guidelines
 
