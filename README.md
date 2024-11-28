@@ -28,7 +28,9 @@ Monica Code is a premium AI coding assistant available for Visual Studio Code an
 > - Best practices and tips
 > 
 > Stay tuned for updates!
+>
 
+<a name="issue-reporting"></a>
 ## 🐛 Issue Reporting
 
 ### Before Creating an Issue
