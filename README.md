@@ -27,6 +27,9 @@
    - Error messages (if any)
    - Steps to reproduce
 
+### Available Documentation
+- [Troubleshooting Guide](TROUBLESHOOTING.md) - Solutions for common issues including network problems and IDE compatibility
+
 ## 🎯 Supported IDEs
 
 ### Visual Studio Code
@@ -53,9 +56,6 @@
 > - Best practices and tips
 > 
 > Stay tuned for updates!
-
-### Available Documentation
-- [Troubleshooting Guide](TROUBLESHOOTING.md) - Solutions for common issues including network problems and IDE compatibility
 
 ## 🤝 Community Guidelines
 
