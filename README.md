@@ -54,6 +54,9 @@
 > 
 > Stay tuned for updates!
 
+### Available Documentation
+- [Troubleshooting Guide](TROUBLESHOOTING.md) - Solutions for common issues including network problems and IDE compatibility
+
 ## 🤝 Community Guidelines
 
 1. **Be Respectful**: Maintain professional and courteous communication
