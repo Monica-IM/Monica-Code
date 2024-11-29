@@ -22,7 +22,7 @@ When you need special proxy settings to connect to Monica, you might encounter:
    - For detailed documentation about `http.proxySupport`, visit https://code.visualstudio.com/docs/getstarted/settings
 
 2. **Manual Proxy Configuration**
-   - For JetBrains IDEs or custom settings, you can configure proxy in config.json
+   - For JetBrains IDEs (Monica Code version >= 1.0.1, pending review) or VS Code (>= 1.1.21), you can configure proxy in config.json
    - Location: typically at `~/.monica-code/config.json`
    - Configuration structure:
      ```json
