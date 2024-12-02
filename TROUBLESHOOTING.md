@@ -28,6 +28,14 @@ When you need special proxy settings to connect to Monica, you might encounter:
      ```jsonc
      {
        "requestOptions": {
+         "proxy": "http://your-proxy-url:port"
+       }
+     }
+     ```
+     Full options:
+     ```
+     {
+       "requestOptions": {
          "proxy": "http://your-proxy-url:port",  // HTTP/HTTPS proxy URL
          "verifySsl": true,                      // Optional: SSL verification
          "caBundlePath": "",                     // Optional: Custom CA bundle path
